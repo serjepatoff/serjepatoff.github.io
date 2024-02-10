@@ -3,8 +3,8 @@
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16087/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="7993" tvg-logo="http://epg.it999.ru/img/7993.png" tvg-rec="0",BOX Новогодний 4K
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16088/index.m3u8
-#-#EXTINF:0 group-title="кино" tvg-id="7994" tvg-logo="http://epg.it999.ru/img/7994.png" tvg-rec="0",Yosso C-Holiday
-#-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16089/index.m3u8
+#EXTINF:0 group-title="кино" tvg-id="7994" tvg-logo="http://epg.it999.ru/img/7994.png" tvg-rec="0",Yosso C-Holiday
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16089/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="7995" tvg-logo="http://epg.it999.ru/img/7995.png" tvg-rec="0",VB Новогодний канал HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16090/index.m3u8
 #EXTINF:0 group-title="кино" tvg-id="7996" tvg-logo="http://epg.it999.ru/img/7996.png" tvg-rec="0",Prokop TV Новогодний HD

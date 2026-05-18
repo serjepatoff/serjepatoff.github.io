@@ -1,4 +1,289 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/ru.xml.gz"
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20206/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="7843" tvg-logo="http://epg.one/img/7843.png" tvg-rec="0",ICTV 2 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15235/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="0",НТН HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15011/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9160" tvg-logo="http://epg.one/img/9160.png" tvg-rec="0",Сфера ТВ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15008/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9126" tvg-logo="http://epg.one/img/9126.png" tvg-rec="0",Наше Улюблене Кіно HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15007/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/945/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/951/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2087" tvg-logo="http://epg.one/img/2087.png" tvg-rec="3",Надiя ТВ UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/956/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="3",EU Music HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/925/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="3",Мега UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/929/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="0",Мега HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15124/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="3",К2 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/930/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="0",К2 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15126/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15125/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="3",Kvartal TV UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/932/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="3",Новий Канал UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/935/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="0",Новий Канал HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15128/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="3",НТН UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/936/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/970/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/975/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="3",Перший Міський HD (Одеса) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/981/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2123" tvg-logo="http://epg.one/img/2123.png" tvg-rec="3",СК1 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/982/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="3",1+1 Україна FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/987/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/991/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="3",Star Cinema HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/992/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2146" tvg-logo="http://epg.one/img/2146.png" tvg-rec="3",Чернiвецький Промiнь UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1004/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1016/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="3",Суспільне Крим HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1017/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1030/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1047/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="3",Рибалка FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1058/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="3",1+1 International UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/994/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/995/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА HD (Чернівці) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/998/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="3",Zoom UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1000/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="0",Zoom HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15130/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1002/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="3",Eco TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1006/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1009/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2210" tvg-logo="http://epg.one/img/2210.png" tvg-rec="3",Сонце UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1013/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2212" tvg-logo="http://epg.one/img/2212.png" tvg-rec="3",Прямий HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1015/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="3",Уніaн Серіал HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1023/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="3",Київ UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1045/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1046/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА (Чернівці) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1072/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1063/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/5041/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6302/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="3",СТБ UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6304/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="0",СТБ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15122/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6305/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6311/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3317" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6313/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3318" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6314/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2194" tvg-logo="http://epg.one/img/2194.png" tvg-rec="3",1+1 Марафон UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6317/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6321/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2138" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt Россия HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6322/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2107" tvg-logo="http://epg.one/img/2107.png" tvg-rec="0",Пiксель TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15127/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png" tvg-rec="3",Star Cinema Россия HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6325/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9162" tvg-logo="http://epg.one/img/9162.png" tvg-rec="3",Star Family Россия HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6326/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6327/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2197" tvg-logo="http://epg.one/img/2197.png" tvg-rec="3",Бігуді UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6330/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3333" tvg-logo="http://epg.one/img/3333.png" tvg-rec="3",NIKI Kids HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6332/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3334" tvg-logo="http://epg.one/img/3334.png" tvg-rec="3",NIKI Junior HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6333/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3335" tvg-logo="http://epg.one/img/3335.png" tvg-rec="3",М1 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6334/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3336" tvg-logo="http://epg.one/img/3336.png" tvg-rec="3",М2 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6335/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6339/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3290" tvg-logo="http://epg.one/img/3290.png" tvg-rec="3",Апостроф TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6373/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6375/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6376/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6377/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6378/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6379/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6380/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9073/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="4585" tvg-logo="http://epg.one/img/4585.png" tvg-rec="0",Перший Автомобільний HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/7228/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="0",Star Cinema FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15262/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2182" tvg-logo="http://epg.one/img/2182.png" tvg-rec="0",FilmBox ArtHouse
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15265/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2181" tvg-logo="http://epg.one/img/2181.png" tvg-rec="0",FilmBox UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15266/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2102" tvg-logo="http://epg.one/img/5611.png" tvg-rec="0",Enter-фільм HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15273/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="0",Eco TV UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15275/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="0",EU Music FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15277/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="0",4ever Music UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15278/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8850" tvg-logo="http://epg.one/img/8850.png" tvg-rec="0",Українське радіо 1 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31724/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8851" tvg-logo="http://epg.one/img/8851.png" tvg-rec="0",Українське радіо 3 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31725/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="0",Уніaн Серіал UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31726/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8853" tvg-logo="http://epg.one/img/8853.png" tvg-rec="0",Фауна UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31727/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8855" tvg-logo="http://epg.one/img/8855.png" tvg-rec="0",Ми Україна UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31731/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2198" tvg-logo="http://epg.one/img/2198.png" tvg-rec="0",НТА HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31732/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="0",Наука UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31733/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2150" tvg-logo="http://epg.one/img/2150.png" tvg-rec="0",Obozrevatel TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31734/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8859" tvg-logo="http://epg.one/img/8859.png" tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31736/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="0",Перший Міський FHD (Одеса) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31737/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2118" tvg-logo="http://epg.one/img/2118.png" tvg-rec="0",Рада HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31739/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8862" tvg-logo="http://epg.one/img/8862.png" tvg-rec="0",Радіо ТВА (Чернівці) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31740/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8863" tvg-logo="http://epg.one/img/8863.png" tvg-rec="0",Радіо Закарпаття FM UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31741/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8864" tvg-logo="http://epg.one/img/8864.png" tvg-rec="0",Радіо Промінь UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31742/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="0",Рибалка HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31743/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8867" tvg-logo="http://epg.one/img/8867.png" tvg-rec="0",Суспільне Київ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31745/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="0",Суспільне Крим FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31746/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8869" tvg-logo="http://epg.one/img/8869.png" tvg-rec="0",Суспільне Культура HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31747/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31750/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт FHD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31751/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8874" tvg-logo="http://epg.one/img/8874.png" tvg-rec="0",Перший Західний HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31752/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="5950" tvg-logo="http://epg.one/img/5950.png" tvg-rec="0",Терра UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31753/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8878" tvg-logo="http://epg.one/img/8878.png" tvg-rec="0",UTravel HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31762/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="7944" tvg-logo="http://epg.one/img/7944.png" tvg-rec="0",Viasat Kino Action HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31763/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8880" tvg-logo="http://epg.one/img/8880.png" tvg-rec="0",Viasat Kino Comedy HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31764/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8881" tvg-logo="http://epg.one/img/8881.png" tvg-rec="0",Viasat Kino HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31765/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="7876" tvg-logo="http://epg.one/img/7876.png" tvg-rec="0",Viasat Nature CEE HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31766/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8883" tvg-logo="http://epg.one/img/8883.png" tvg-rec="0",Viasat Kino World
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31767/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8884" tvg-logo="http://epg.one/img/8884.png" tvg-rec="0",Ісландія HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31769/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8885" tvg-logo="http://epg.one/img/8885.png" tvg-rec="0",Аверс UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31770/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8886" tvg-logo="http://epg.one/img/8886.png" tvg-rec="0",Армія TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31771/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2204" tvg-logo="http://epg.one/img/2204.png" tvg-rec="0",Галичина HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31772/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8890" tvg-logo="http://epg.one/img/8890.png" tvg-rec="0",Дача UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31775/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8891" tvg-logo="http://epg.one/img/8891.png" tvg-rec="0",Дім UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31776/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="0",Kvartal TV HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31780/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="0",Київ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31781/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="0",1+1 Україна HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31784/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8898" tvg-logo="http://epg.one/img/8898.png" tvg-rec="0",11 Канал HD (Дніпро) UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31785/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2351" tvg-logo="http://epg.one/img/2351.png" tvg-rec="0",36.6 TV UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31787/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8900" tvg-logo="http://epg.one/img/8900.png" tvg-rec="0",4ever Cinema HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31788/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8902" tvg-logo="http://epg.one/img/8902.png" tvg-rec="0",6 Соток UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31790/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8288" tvg-logo="http://epg.one/img/8288.png" tvg-rec="0",AMC UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31792/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="0",Bolt HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31793/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8904" tvg-logo="http://epg.one/img/8904.png" tvg-rec="0",Cine+ HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31794/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8905" tvg-logo="http://epg.one/img/8905.png" tvg-rec="0",Cine+ Hit HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31795/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8906" tvg-logo="http://epg.one/img/8906.png" tvg-rec="0",Cine+ Kids HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31796/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8907" tvg-logo="http://epg.one/img/8907.png" tvg-rec="0",Cine+ Legend HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31797/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2358" tvg-logo="http://epg.one/img/2358.png" tvg-rec="0",D1 HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31798/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2223" tvg-logo="http://epg.one/img/2223.png" tvg-rec="0",Da Vinci HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31799/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8909" tvg-logo="http://epg.one/img/8909.png" tvg-rec="0",Divi Sport HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31800/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8910" tvg-logo="http://epg.one/img/8910.png" tvg-rec="0",Equalympic HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31802/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8911" tvg-logo="http://epg.one/img/8911.png" tvg-rec="0",FilmUA Drama UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31805/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="9754" tvg-logo="http://epg.one/img/9754.png" tvg-rec="0",FilmBox ArtHouse UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31807/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8913" tvg-logo="http://epg.one/img/8913.png" tvg-rec="0",FilmUA Live HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31808/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8915" tvg-logo="http://epg.one/img/8915.png" tvg-rec="0",FreeДом UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31810/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31812/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8917" tvg-logo="http://epg.one/img/8917.png" tvg-rec="0",Kino Action HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31813/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8918" tvg-logo="http://epg.one/img/8918.png" tvg-rec="0",Kino Comedy HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31814/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8919" tvg-logo="http://epg.one/img/8919.png" tvg-rec="0",Kino Premiere HD UA
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31815/index.m3u8
+#EXTINF:0 group-title="Украина | Українські" tvg-id="8921" tvg-logo="http://epg.one/img/8921.png" tvg-rec="0",Kinowood HD
+http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31817/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал UHD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19241/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ UHD
@@ -15,30 +300,12 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20018/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/204/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="7",Первый канал
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/127/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2034" tvg-logo="http://epg.one/img/2034.png" tvg-rec="3",Первый канал +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/714/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3025" tvg-logo="http://epg.one/img/3025.png" tvg-rec="0",Первый канал +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6021/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3025" tvg-logo="http://epg.one/img/3025.png" tvg-rec="0",Первый канал +4 HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15117/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="20" tvg-logo="http://epg.one/img/20.png" tvg-rec="0",Первый канал +6
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6037/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3027" tvg-logo="http://epg.one/img/3027.png" tvg-rec="0",Первый канал +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6050/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/984.png" tvg-rec="3",Россия 1 FHD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2409/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/984.png" tvg-rec="7",Россия 1 HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/205/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="7",Россия 1
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/504/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3000" tvg-logo="http://epg.one/img/3000.png" tvg-rec="0",Россия 1 +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6011/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6022/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3002" tvg-logo="http://epg.one/img/3002.png" tvg-rec="0",Россия 1 +6
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6038/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6051/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/2001.png" tvg-rec="7",НТВ HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/213/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="2041" tvg-logo="http://epg.one/img/2041.png" tvg-rec="0",НТВ Хит HD
@@ -47,34 +314,10 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16062/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/14035/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="7",НТВ
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/501/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="3",НТВ +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/713/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2964" tvg-logo="http://epg.one/img/2964.png" tvg-rec="0",НТВ +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6024/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3028" tvg-logo="http://epg.one/img/3028.png" tvg-rec="0",НТВ +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6039/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3029" tvg-logo="http://epg.one/img/3029.png" tvg-rec="0",НТВ +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6053/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="http://epg.one/img/649.png" tvg-rec="7",ТВ Центр
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/520/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2038" tvg-logo="http://epg.one/img/2038.png" tvg-rec="3",ТВ Центр +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/716/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3037" tvg-logo="http://epg.one/img/3037.png" tvg-rec="0",ТВ Центр +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6027/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3038" tvg-logo="http://epg.one/img/3038.png" tvg-rec="0",ТВ Центр +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6041/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3039" tvg-logo="http://epg.one/img/3039.png" tvg-rec="0",ТВ Центр +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6056/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="7",Пятый канал
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/112/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="3",Пятый канал +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/746/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6025/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6040/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6054/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="726" tvg-logo="http://epg.one/img/726.png" tvg-rec="0",Мир HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15119/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ UHD
@@ -85,52 +328,20 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2417/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/237/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="7",ТНТ
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/502/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3023" tvg-logo="http://epg.one/img/3023.png" tvg-rec="0",ТНТ +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6035/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3024" tvg-logo="http://epg.one/img/3024.png" tvg-rec="0",ТНТ +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6049/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="7",СТС
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/506/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6015/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3008" tvg-logo="http://epg.one/img/3008.png" tvg-rec="0",СТС +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6029/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3009" tvg-logo="http://epg.one/img/3009.png" tvg-rec="0",СТС +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6043/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="7",РЕН ТВ HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2024/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="7",РЕН ТВ
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/128/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="3",РЕН ТВ +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/747/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6028/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6042/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="726" tvg-logo="http://epg.one/img/726.png" tvg-rec="7",Мир
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/113/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3019" tvg-logo="http://epg.one/img/3019.png" tvg-rec="0",Мир +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6019/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3020" tvg-logo="http://epg.one/img/3020.png" tvg-rec="0",Мир +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6034/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3021" tvg-logo="http://epg.one/img/3021.png" tvg-rec="0",Мир +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6048/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1000" tvg-logo="http://epg.one/img/1000.png" tvg-rec="7",ОТР
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/705/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3004" tvg-logo="http://epg.one/img/3004.png" tvg-rec="0",ОТР +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6014/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3005" tvg-logo="http://epg.one/img/3005.png" tvg-rec="0",ОТР +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6026/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="4661" tvg-logo="http://epg.one/img/4661.png" tvg-rec="0",Звезда Плюс HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19230/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="405" tvg-logo="http://epg.one/img/405.png" tvg-rec="7",Звезда
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/544/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="405" tvg-logo="http://epg.one/img/405.png" tvg-rec="3",Звезда +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/739/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3035" tvg-logo="http://epg.one/img/3035.png" tvg-rec="0",Звезда +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6033/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3036" tvg-logo="http://epg.one/img/3036.png" tvg-rec="0",Звезда +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6047/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1322" tvg-logo="http://epg.one/img/1322.png" tvg-rec="7",СТС Love
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/103/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" tvg-rec="7",Че!
@@ -139,34 +350,16 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/513/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/5033/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="7",ТВ-3
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/508/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6017/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6031/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6045/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/2765.png" tvg-rec="3",Пятница! HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/5031/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="7",Пятница!
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/503/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6018/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6032/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6046/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="2401" tvg-logo="http://epg.one/img/2401.png" tvg-rec="3",RTVi
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2086/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="2288" tvg-logo="http://epg.one/img/2288.png" tvg-rec="7",Суббота!
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/826/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="7",Домашний
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/514/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3010" tvg-logo="http://epg.one/img/3010.png" tvg-rec="0",Домашний +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6016/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3011" tvg-logo="http://epg.one/img/3011.png" tvg-rec="0",Домашний +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6030/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3012" tvg-logo="http://epg.one/img/3012.png" tvg-rec="0",Домашний +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6044/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="2142" tvg-logo="http://epg.one/img/2142.png" tvg-rec="3",Настоящее время
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/986/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="783" tvg-logo="http://epg.one/img/783.png" tvg-rec="7",Ностальгия
@@ -327,272 +520,20 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15136/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15229/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5692" tvg-logo="http://epg.one/img/5692.png" tvg-rec="0",ТНТ International HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15230/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +1 (Приволжье)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15284/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15287/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15288/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15290/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15291/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15293/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="0",Домашний +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15294/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15295/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15296/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="405" tvg-logo="http://epg.one/img/405.png" tvg-rec="0",Звезда +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15297/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15298/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2034" tvg-logo="http://epg.one/img/2034.png" tvg-rec="0",Первый канал +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15301/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3000" tvg-logo="http://epg.one/img/3000.png" tvg-rec="0",Россия 1 +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15302/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15303/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3022" tvg-logo="http://epg.one/img/3022.png" tvg-rec="0",ТНТ +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15304/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2036" tvg-logo="http://epg.one/img/2036.png" tvg-rec="0",НТВ +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15305/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2039" tvg-logo="http://epg.one/img/2039.png" tvg-rec="0",Звезда +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15306/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3016" tvg-logo="http://epg.one/img/3016.png" tvg-rec="0",Пятница! +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15308/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15309/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15313/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15315/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2035" tvg-logo="http://epg.one/img/2035.png" tvg-rec="0",Пятый канал +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15316/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3010" tvg-logo="http://epg.one/img/3010.png" tvg-rec="0",Домашний +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15317/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15318/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15319/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2038" tvg-logo="http://epg.one/img/2038.png" tvg-rec="0",ТВ Центр +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15320/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="0",Домашний +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15321/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15322/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15323/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15324/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15325/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15326/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15327/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="187" tvg-logo="http://epg.one/img/187.png" tvg-rec="0",Россия К +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15328/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15330/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15331/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15332/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3026" tvg-logo="http://epg.one/img/3026.png" tvg-rec="0",Первый канал +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15333/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="7989" tvg-logo="http://epg.one/img/7989.png" tvg-rec="0",Россия 1 +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15334/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3028" tvg-logo="http://epg.one/img/3028.png" tvg-rec="0",НТВ +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15336/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15337/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1101" tvg-logo="http://epg.one/img/1101.png" tvg-rec="0",Россия К +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15338/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3005" tvg-logo="http://epg.one/img/3005.png" tvg-rec="0",ОТР +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15341/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3038" tvg-logo="http://epg.one/img/3038.png" tvg-rec="0",ТВ Центр +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15342/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3034" tvg-logo="http://epg.one/img/3034.png" tvg-rec="0",РЕН ТВ +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15343/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="93253" tvg-logo="http://epg.one/img/93253.png" tvg-rec="0",СПАС +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15344/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3012" tvg-logo="http://epg.one/img/3012.png" tvg-rec="0",Домашний +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15345/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15346/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3018" tvg-logo="http://epg.one/img/3018.png" tvg-rec="0",Пятница! +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15347/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3036" tvg-logo="http://epg.one/img/3036.png" tvg-rec="0",Звезда +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15348/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3021" tvg-logo="http://epg.one/img/3021.png" tvg-rec="0",Мир +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15349/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3024" tvg-logo="http://epg.one/img/3024.png" tvg-rec="0",ТНТ +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15350/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3009" tvg-logo="http://epg.one/img/3009.png" tvg-rec="0",СТС +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15351/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +5 (Иркутск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15355/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="9621" tvg-logo="http://epg.one/img/9621.png" tvg-rec="0",БСТ 24 (Братск)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15359/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +4 (Абакан)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15367/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="9157" tvg-logo="http://epg.one/img/9157.png" tvg-rec="0",БТК HD (Белорецк)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15371/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="http://epg.one/img/649.png" tvg-rec="0",ТВ Центр +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15372/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15373/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15374/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15375/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3008" tvg-logo="http://epg.one/img/3008.png" tvg-rec="0",СТС +4 (Кузбасс)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15376/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15377/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3011" tvg-logo="http://epg.one/img/3011.png" tvg-rec="0",Домашний +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15379/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15380/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3035" tvg-logo="http://epg.one/img/3035.png" tvg-rec="0",Звезда +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15381/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3020" tvg-logo="http://epg.one/img/3020.png" tvg-rec="0",Мир +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15382/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3023" tvg-logo="http://epg.one/img/3023.png" tvg-rec="0",ТНТ +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15383/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2036" tvg-logo="http://epg.one/img/2036.png" tvg-rec="0",НТВ +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15384/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3025" tvg-logo="http://epg.one/img/3025.png" tvg-rec="0",Первый канал +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15385/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15386/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2964" tvg-logo="http://epg.one/img/2964.png" tvg-rec="0",НТВ +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15388/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15389/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3037" tvg-logo="http://epg.one/img/3037.png" tvg-rec="0",ТВ Центр +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15391/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3033" tvg-logo="http://epg.one/img/3033.png" tvg-rec="0",РЕН ТВ +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15392/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3008" tvg-logo="http://epg.one/img/3008.png" tvg-rec="0",СТС +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15393/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3011" tvg-logo="http://epg.one/img/3011.png" tvg-rec="0",Домашний +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15394/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15395/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3017" tvg-logo="http://epg.one/img/3017.png" tvg-rec="0",Пятница! +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15396/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3023" tvg-logo="http://epg.one/img/3023.png" tvg-rec="0",ТНТ +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15398/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3035" tvg-logo="http://epg.one/img/3035.png" tvg-rec="0",Звезда +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15397/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +0 (Алания)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15403/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="19" tvg-logo="http://epg.one/img/19.png" tvg-rec="0",Россия 1 +5 (Иркутск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15413/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3001" tvg-logo="http://epg.one/img/3001.png" tvg-rec="0",Россия 1 +4 (Красноярск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15415/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5818" tvg-logo="http://epg.one/img/5818.png" tvg-rec="0",Прима (Красноярск)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15417/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5821" tvg-logo="http://epg.one/img/5821.png" tvg-rec="0",ТВК (Красноярск)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15420/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15426/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15427/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15428/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3025" tvg-logo="http://epg.one/img/3025.png" tvg-rec="0",Первый канал +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15431/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2964" tvg-logo="http://epg.one/img/2964.png" tvg-rec="0",НТВ +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15433/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15434/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1100" tvg-logo="http://epg.one/img/1100.png" tvg-rec="0",Россия К +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15435/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="70001" tvg-rec="0",ТВ Центр +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15437/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3033" tvg-logo="http://epg.one/img/3033.png" tvg-rec="0",РЕН ТВ +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15438/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15439/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3017" tvg-logo="http://epg.one/img/3017.png" tvg-rec="0",Пятница! +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15440/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15443/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="4642" tvg-logo="http://epg.one/img/4642.png" tvg-rec="0",Россия К +2 (Пермь)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15445/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15447/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15449/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15450/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="187" tvg-logo="http://epg.one/img/187.png" tvg-rec="0",Россия К +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15451/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="http://epg.one/img/649.png" tvg-rec="0",ТВ Центр + (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15454/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15455/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15456/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15457/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="405" tvg-logo="http://epg.one/img/405.png" tvg-rec="0",Звезда +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15458/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="726" tvg-logo="http://epg.one/img/726.png" tvg-rec="0",Мир +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15459/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15460/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3022" tvg-logo="http://epg.one/img/3022.png" tvg-rec="0",ТНТ +2 (Белорецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15462/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15464/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="http://epg.one/img/711.png" tvg-rec="0",Россия 1 +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15465/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="http://epg.one/img/162.png" tvg-rec="0",НТВ +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15466/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Пятый канал +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15467/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15469/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15470/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="0",Домашний +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15471/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="1003" tvg-logo="http://epg.one/img/1003.png" tvg-rec="0",Пятница! +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15472/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15473/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="5867" tvg-logo="http://epg.one/img/5867.png" tvg-rec="0",ОТВ (Владивосток)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15476/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="304" tvg-logo="http://epg.one/img/304.png" tvg-rec="0",Домашний +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15477/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15479/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="http://epg.one/img/18.png" tvg-rec="0",РЕН ТВ +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15480/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2034" tvg-logo="http://epg.one/img/2034.png" tvg-rec="0",Первый канал +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15481/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3007" tvg-logo="http://epg.one/img/3007.png" tvg-rec="0",СТС +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15482/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3016" tvg-logo="http://epg.one/img/3016.png" tvg-rec="0",Пятница! +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15483/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="698" tvg-logo="http://epg.one/img/698.png" tvg-rec="0",ТВ-3 +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15484/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="3022" tvg-logo="http://epg.one/img/3022.png" tvg-rec="0",ТНТ +2 (Нефтекамск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15485/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="2034" tvg-logo="http://epg.one/img/2034.png" tvg-rec="0",Первый канал +2 (Белорецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15486/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="2399" tvg-logo="http://epg.one/img/2399.png" tvg-rec="0",Дождь HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20083/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="11462" tvg-logo="http://epg.one/img/11462.png" tvg-rec="0",Trece HD ES
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31885/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="http://epg.one/img/649.png" tvg-rec="0",ТВ Центр +0 (Ставрополь)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31892/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="11469" tvg-logo="http://epg.one/img/11469.png" tvg-rec="0",Патриот
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31928/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.one/img/743.png" tvg-rec="0",РБК HD 50
@@ -605,8 +546,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15012/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16075/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="2264" tvg-logo="http://epg.one/img/2264.png" tvg-rec="0",Инфоканал
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/435/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="2975" tvg-logo="http://epg.one/img/2975.png" tvg-rec="3",Россия 24 +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6013/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.one/img/743.png" tvg-rec="3",РБК FHD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2404/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="743" tvg-logo="http://epg.one/img/743.png" tvg-rec="7",РБК
@@ -651,32 +590,8 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9220/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9222/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="2268" tvg-logo="http://epg.one/img/2268.png" tvg-rec="3",CGTN Русский HD orig
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9223/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88036" tvg-logo="http://epg.one/img/88036.png" tvg-rec="0",Россия 24 +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15292/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="2975" tvg-logo="http://epg.one/img/2975.png" tvg-rec="0",Россия 24 +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15312/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Невинномысск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15329/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88038" tvg-logo="http://epg.one/img/88038.png" tvg-rec="0",Россия 24 +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15339/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88037" tvg-logo="http://epg.one/img/88037.png" tvg-rec="0",Россия 24 +5 (Иркутск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15358/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88036" tvg-logo="http://epg.one/img/88036.png" tvg-rec="0",Россия 24 +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15378/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88036" tvg-logo="http://epg.one/img/88036.png" tvg-rec="0",Россия 24 +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15390/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Алания)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15404/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15405/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15412/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="88036" tvg-logo="http://epg.one/img/88036.png" tvg-rec="0",Россия 24 +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15416/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15452/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15468/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="103" tvg-logo="http://epg.one/img/103.png" tvg-rec="0",100% News UA
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16041/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="4458" tvg-logo="http://epg.one/img/4458.png" tvg-rec="0",360 Новости HD
@@ -693,8 +608,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19179/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19181/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="6598" tvg-logo="http://epg.one/img/6598.png" tvg-rec="0",BBC Scotland HD UK
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19183/index.m3u8
-#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img/1683.png" tvg-rec="0",Россия 24 +0 (Нижний Новгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31891/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="11320" tvg-logo="http://epg.one/img/11320.png" tvg-rec="0",Первый информационный HD BY
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31912/index.m3u8
 #EXTINF:0 group-title="Новостные" tvg-id="6683" tvg-logo="http://epg.one/img/6683.png" tvg-rec="0",Fox News FHD US
@@ -723,8 +636,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19216/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20172/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="17032" tvg-logo="http://epg.one/img/17032.png" tvg-rec="0",Зал 19 (Триколор)
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20178/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="17022" tvg-logo="http://epg.one/img/17022.png" tvg-rec="0",Мосфильм. Золотая коллекция +4 HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/17022/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="9179" tvg-logo="http://epg.one/img/9179.png" tvg-rec="0",Romance HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2037/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="9180" tvg-logo="http://epg.one/img/9180.png" tvg-rec="0",Suspense HD
@@ -2281,12 +2192,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/107/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/123/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="2054" tvg-logo="http://epg.one/img/2054.png" tvg-rec="7",Матч! Боец
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/150/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="3",Матч ТВ +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6012/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="3",Матч ТВ +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6023/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="3",Матч ТВ +8
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6052/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4580" tvg-logo="http://epg.one/img/4580.png" tvg-rec="0",Триколор Спорт 1
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/7360/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="4581" tvg-logo="http://epg.one/img/4581.png" tvg-rec="0",Триколор Спорт 2
@@ -2463,22 +2368,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15183/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15184/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="5891" tvg-logo="http://epg.one/img/5891.png" tvg-rec="0",Q Sport.KG HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15238/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +4 (Алтай)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15289/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +2 (Уфа)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15307/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15314/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15335/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +4 (Томск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15387/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +0 (Белгород)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15409/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15432/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png" tvg-rec="0",Матч ТВ +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15448/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6039" tvg-logo="http://epg.one/img/6039.png" tvg-rec="0",Red Bull TV HD DE
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16039/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6039" tvg-logo="http://epg.one/img/6039.png" tvg-rec="0",Red Bull TV HD
@@ -2731,8 +2620,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/14008/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/14009/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="1021" tvg-logo="http://epg.one/img/1021.png" tvg-rec="3",MTV HD US
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2130/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="897" tvg-logo="http://epg.one/img/897.png" tvg-rec="0",МУЗ-ТВ +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15461/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="3358" tvg-logo="http://epg.one/img/3358.png" tvg-rec="3",SONGTV Россия HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6394/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="165" tvg-logo="http://epg.one/img/165.png" tvg-rec="3",Жара HD
@@ -2791,8 +2678,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2137/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2142/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2837" tvg-logo="http://epg.one/img/2837.png" tvg-rec="3",AIVA TV HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2156/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="897" tvg-logo="http://epg.one/img/897.png" tvg-rec="0",МУЗ-ТВ +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6036/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="4037" tvg-logo="http://epg.one/img/4037.png" tvg-rec="3",1HD Music Television HD orig
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9001/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="2022" tvg-logo="http://epg.one/img/2022.png" tvg-rec="3",Bridge Deluxe HD orig
@@ -2877,8 +2762,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15020/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/13030/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="5597" tvg-logo="http://epg.one/img/5597.png" tvg-rec="0",Trace Urban HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15107/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="897" tvg-logo="http://epg.one/img/897.png" tvg-rec="0",МУЗ-ТВ +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15441/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="6011" tvg-logo="http://epg.one/img/6011.png" tvg-rec="0",InRating TV HD UA
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16020/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="6012" tvg-logo="http://epg.one/img/6012.png" tvg-rec="0",Радио Шансон HD
@@ -3037,8 +2920,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/727/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/730/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2027" tvg-logo="http://epg.one/img/2027.png" tvg-rec="7",В гостях у сказки
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/737/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="7984" tvg-logo="http://epg.one/img/7984.png" tvg-rec="3",Карусель +3
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/740/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/749/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="2156" tvg-logo="http://epg.one/img/2156.png" tvg-rec="3",Duck TV HD
@@ -3163,14 +3044,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/17027/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/18044/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="6232" tvg-logo="http://epg.one/img/6232.png" tvg-rec="0",Liberty Мульт 4K
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/18051/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="1107" tvg-logo="http://epg.one/img/1107.png" tvg-rec="0",Карусель +7 (Владивосток)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15340/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="7984" tvg-logo="http://epg.one/img/7984.png" tvg-rec="0",Карусель +3 (Омск)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15436/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="1107" tvg-logo="http://epg.one/img/1107.png" tvg-rec="0",Карусель +7
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15442/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="http://epg.one/img/740.png" tvg-rec="0",Карусель +0 (Элиста)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15453/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="5995" tvg-logo="http://epg.one/img/5995.png" tvg-rec="0",VF Мультуб
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15520/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="5996" tvg-logo="http://epg.one/img/5996.png" tvg-rec="0",VF Новогодние мультфильмы
@@ -3837,8 +3710,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/851/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6303/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="353" tvg-logo="http://epg.one/img/1767.png" tvg-rec="0",ТНТ HD 50
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/10024/index.m3u8
-#EXTINF:0 group-title="Развлекательные" tvg-id="3022" tvg-logo="http://epg.one/img/3022.png" tvg-rec="0",ТНТ +2
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6020/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="1649" tvg-logo="http://epg.one/img/1649.png" tvg-rec="3",ТНТ4 HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6370/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="3550" tvg-logo="http://epg.one/img/3550.png" tvg-rec="3",Зал Суда HD
@@ -3867,10 +3738,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/17028/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/17030/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="5651" tvg-logo="http://epg.one/img/5651.png" tvg-rec="0",Перец International
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15227/index.m3u8
-#EXTINF:0 group-title="Развлекательные" tvg-id="1649" tvg-logo="http://epg.one/img/1649.png" tvg-rec="0",ТНТ4 +0 (Тамбов)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15401/index.m3u8
-#EXTINF:0 group-title="Развлекательные" tvg-id="1598" tvg-logo="http://epg.one/img/1598.png" tvg-rec="0",Че! +4
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15421/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="6129" tvg-logo="http://epg.one/img/6129.png" tvg-rec="0",VF Юмор 18+
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16137/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="6417" tvg-logo="http://epg.one/img/6417.png" tvg-rec="0",VF Уральские пельмени
@@ -3889,8 +3756,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/16089/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31881/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="11368" tvg-logo="http://epg.one/img/11368.png" tvg-rec="0",M+ Vacaciones HD ES
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31884/index.m3u8
-#EXTINF:0 group-title="Развлекательные" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="0",СТС +0 (Липецк)
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31896/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="323" tvg-logo="http://epg.one/img/323.png" tvg-rec="0",2x2 HD
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31913/index.m3u8
 #EXTINF:0 group-title="Развлекательные" tvg-id="11371" tvg-logo="http://epg.one/img/11371.png" tvg-rec="0",Плюс/Минус 16 HD
@@ -4771,8 +4636,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/7344/index.m3u8
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19185/index.m3u8
 #EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="6648" tvg-logo="http://epg.one/img/6648.png" tvg-rec="0",ITV2 HD UK
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19186/index.m3u8
-#EXTINF:0 group-title="Великобритания | United Kingdom" tvg-id="6650" tvg-logo="http://epg.one/img/6650.png" tvg-rec="0",ITV4 +1 UK
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/19188/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="9084" tvg-logo="http://epg.one/img/9084.png" tvg-rec="3",Sky Sport Mix HD DE
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/5039/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
@@ -7344,291 +7207,6 @@ http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20204/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7937" tvg-logo="http://epg.one/img/7937.png" tvg-rec="0",Zo'r TV HD UZ
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20205/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7938" tvg-logo="http://epg.one/img/7938.png" tvg-rec="0",Toshkent UZ
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/20206/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="7843" tvg-logo="http://epg.one/img/7843.png" tvg-rec="0",ICTV 2 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15235/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="0",НТН HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15011/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="9160" tvg-logo="http://epg.one/img/9160.png" tvg-rec="0",Сфера ТВ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15008/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="9126" tvg-logo="http://epg.one/img/9126.png" tvg-rec="0",Наше Улюблене Кіно HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15007/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/945/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/951/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2087" tvg-logo="http://epg.one/img/2087.png" tvg-rec="3",Надiя ТВ UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/956/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="3",EU Music HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/925/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="3",Мега UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/929/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2098" tvg-logo="http://epg.one/img/2098.png" tvg-rec="0",Мега HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15124/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="3",К2 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/930/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="0",К2 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15126/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15125/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="3",Kvartal TV UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/932/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="3",Новий Канал UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/935/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2104" tvg-logo="http://epg.one/img/2104.png" tvg-rec="0",Новий Канал HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15128/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2105" tvg-logo="http://epg.one/img/2105.png" tvg-rec="3",НТН UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/936/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="3",4ever Music HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/970/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/975/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="3",Перший Міський HD (Одеса) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/981/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2123" tvg-logo="http://epg.one/img/2123.png" tvg-rec="3",СК1 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/982/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="3",1+1 Україна FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/987/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/991/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="3",Star Cinema HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/992/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2146" tvg-logo="http://epg.one/img/2146.png" tvg-rec="3",Чернiвецький Промiнь UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1004/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1016/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="3",Суспільне Крим HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1017/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2079" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1030/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1047/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="3",Рибалка FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1058/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="3",1+1 International UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/994/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/995/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА HD (Чернівці) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/998/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="3",Zoom UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1000/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="0",Zoom HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15130/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1002/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="3",Eco TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1006/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1009/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2210" tvg-logo="http://epg.one/img/2210.png" tvg-rec="3",Сонце UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1013/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2212" tvg-logo="http://epg.one/img/2212.png" tvg-rec="3",Прямий HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1015/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="3",Уніaн Серіал HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1023/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="3",Київ UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1045/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1046/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2199" tvg-logo="http://epg.one/img/2199.png" tvg-rec="3",ТВА (Чернівці) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1072/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2084" tvg-logo="http://epg.one/img/2084.png" tvg-rec="3",24 Канал HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/1063/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2355" tvg-logo="http://epg.one/img/2355.png" tvg-rec="3",Тернопіль 1 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/5041/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6302/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="3",СТБ UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6304/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="0",СТБ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15122/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6305/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6311/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3317" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6313/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3318" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6314/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2194" tvg-logo="http://epg.one/img/2194.png" tvg-rec="3",1+1 Марафон UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6317/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6321/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2138" tvg-logo="http://epg.one/img/2138.png" tvg-rec="3",Bolt Россия HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6322/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2107" tvg-logo="http://epg.one/img/2107.png" tvg-rec="0",Пiксель TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15127/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3328" tvg-logo="http://epg.one/img/3328.png" tvg-rec="3",Star Cinema Россия HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6325/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="9162" tvg-logo="http://epg.one/img/9162.png" tvg-rec="3",Star Family Россия HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6326/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2859" tvg-logo="http://epg.one/img/2859.png" tvg-rec="3",8 Канал FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6327/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2197" tvg-logo="http://epg.one/img/2197.png" tvg-rec="3",Бігуді UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6330/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3333" tvg-logo="http://epg.one/img/3333.png" tvg-rec="3",NIKI Kids HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6332/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3334" tvg-logo="http://epg.one/img/3334.png" tvg-rec="3",NIKI Junior HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6333/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3335" tvg-logo="http://epg.one/img/3335.png" tvg-rec="3",М1 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6334/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3336" tvg-logo="http://epg.one/img/3336.png" tvg-rec="3",М2 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6335/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3307" tvg-logo="http://epg.one/img/3307.png" tvg-rec="3",ICTV UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6339/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3290" tvg-logo="http://epg.one/img/3290.png" tvg-rec="3",Апостроф TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6373/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6375/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2147" tvg-logo="http://epg.one/img/2147.png" tvg-rec="3",Перший HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6376/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2171" tvg-logo="http://epg.one/img/2171.png" tvg-rec="3",ТЕТ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6377/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2195" tvg-logo="http://epg.one/img/2195.png" tvg-rec="3",2+2 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6378/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2202" tvg-logo="http://epg.one/img/2202.png" tvg-rec="3",ПлюсПлюс HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6379/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="3351" tvg-logo="http://epg.one/img/3351.png" tvg-rec="3",Оце UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/6380/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2096" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/9073/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="4585" tvg-logo="http://epg.one/img/4585.png" tvg-rec="0",Перший Автомобільний HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/7228/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2145" tvg-logo="http://epg.one/img/2145.png" tvg-rec="0",Star Cinema FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15262/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2182" tvg-logo="http://epg.one/img/2182.png" tvg-rec="0",FilmBox ArtHouse
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15265/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2181" tvg-logo="http://epg.one/img/2181.png" tvg-rec="0",FilmBox UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15266/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2102" tvg-logo="http://epg.one/img/5611.png" tvg-rec="0",Enter-фільм HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15273/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="0",Eco TV UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15275/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2094" tvg-logo="http://epg.one/img/2094.png" tvg-rec="0",EU Music FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15277/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2379" tvg-logo="http://epg.one/img/2379.png" tvg-rec="0",4ever Music UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/15278/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8850" tvg-logo="http://epg.one/img/8850.png" tvg-rec="0",Українське радіо 1 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31724/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8851" tvg-logo="http://epg.one/img/8851.png" tvg-rec="0",Українське радіо 3 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31725/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2217" tvg-logo="http://epg.one/img/2217.png" tvg-rec="0",Уніaн Серіал UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31726/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8853" tvg-logo="http://epg.one/img/8853.png" tvg-rec="0",Фауна UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31727/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8855" tvg-logo="http://epg.one/img/8855.png" tvg-rec="0",Ми Україна UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31731/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2198" tvg-logo="http://epg.one/img/2198.png" tvg-rec="0",НТА HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31732/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="723" tvg-logo="http://epg.one/img/723.png" tvg-rec="0",Наука UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31733/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2150" tvg-logo="http://epg.one/img/2150.png" tvg-rec="0",Obozrevatel TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31734/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8859" tvg-logo="http://epg.one/img/8859.png" tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31736/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8860" tvg-logo="http://epg.one/img/8860.png" tvg-rec="0",Перший Міський FHD (Одеса) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31737/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2118" tvg-logo="http://epg.one/img/2118.png" tvg-rec="0",Рада HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31739/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8862" tvg-logo="http://epg.one/img/8862.png" tvg-rec="0",Радіо ТВА (Чернівці) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31740/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8863" tvg-logo="http://epg.one/img/8863.png" tvg-rec="0",Радіо Закарпаття FM UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31741/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8864" tvg-logo="http://epg.one/img/8864.png" tvg-rec="0",Радіо Промінь UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31742/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2950" tvg-logo="http://epg.one/img/2950.png" tvg-rec="0",Рибалка HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31743/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8867" tvg-logo="http://epg.one/img/8867.png" tvg-rec="0",Суспільне Київ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31745/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="0",Суспільне Крим FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31746/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8869" tvg-logo="http://epg.one/img/8869.png" tvg-rec="0",Суспільне Культура HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31747/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31750/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт FHD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31751/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8874" tvg-logo="http://epg.one/img/8874.png" tvg-rec="0",Перший Західний HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31752/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="5950" tvg-logo="http://epg.one/img/5950.png" tvg-rec="0",Терра UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31753/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8878" tvg-logo="http://epg.one/img/8878.png" tvg-rec="0",UTravel HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31762/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="7944" tvg-logo="http://epg.one/img/7944.png" tvg-rec="0",Viasat Kino Action HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31763/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8880" tvg-logo="http://epg.one/img/8880.png" tvg-rec="0",Viasat Kino Comedy HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31764/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8881" tvg-logo="http://epg.one/img/8881.png" tvg-rec="0",Viasat Kino HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31765/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="7876" tvg-logo="http://epg.one/img/7876.png" tvg-rec="0",Viasat Nature CEE HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31766/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8883" tvg-logo="http://epg.one/img/8883.png" tvg-rec="0",Viasat Kino World
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31767/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8884" tvg-logo="http://epg.one/img/8884.png" tvg-rec="0",Ісландія HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31769/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8885" tvg-logo="http://epg.one/img/8885.png" tvg-rec="0",Аверс UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31770/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8886" tvg-logo="http://epg.one/img/8886.png" tvg-rec="0",Армія TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31771/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2204" tvg-logo="http://epg.one/img/2204.png" tvg-rec="0",Галичина HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31772/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8890" tvg-logo="http://epg.one/img/8890.png" tvg-rec="0",Дача UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31775/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8891" tvg-logo="http://epg.one/img/8891.png" tvg-rec="0",Дім UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31776/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2101" tvg-logo="http://epg.one/img/2101.png" tvg-rec="0",Kvartal TV HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31780/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2227" tvg-logo="http://epg.one/img/2227.png" tvg-rec="0",Київ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31781/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8897" tvg-logo="http://epg.one/img/8897.png" tvg-rec="0",1+1 Україна HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31784/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8898" tvg-logo="http://epg.one/img/8898.png" tvg-rec="0",11 Канал HD (Дніпро) UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31785/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2351" tvg-logo="http://epg.one/img/2351.png" tvg-rec="0",36.6 TV UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31787/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8900" tvg-logo="http://epg.one/img/8900.png" tvg-rec="0",4ever Cinema HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31788/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8902" tvg-logo="http://epg.one/img/8902.png" tvg-rec="0",6 Соток UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31790/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8288" tvg-logo="http://epg.one/img/8288.png" tvg-rec="0",AMC UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31792/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2144" tvg-logo="http://epg.one/img/2138.png" tvg-rec="0",Bolt HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31793/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8904" tvg-logo="http://epg.one/img/8904.png" tvg-rec="0",Cine+ HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31794/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8905" tvg-logo="http://epg.one/img/8905.png" tvg-rec="0",Cine+ Hit HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31795/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8906" tvg-logo="http://epg.one/img/8906.png" tvg-rec="0",Cine+ Kids HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31796/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8907" tvg-logo="http://epg.one/img/8907.png" tvg-rec="0",Cine+ Legend HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31797/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2358" tvg-logo="http://epg.one/img/2358.png" tvg-rec="0",D1 HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31798/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2223" tvg-logo="http://epg.one/img/2223.png" tvg-rec="0",Da Vinci HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31799/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8909" tvg-logo="http://epg.one/img/8909.png" tvg-rec="0",Divi Sport HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31800/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8910" tvg-logo="http://epg.one/img/8910.png" tvg-rec="0",Equalympic HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31802/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8911" tvg-logo="http://epg.one/img/8911.png" tvg-rec="0",FilmUA Drama UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31805/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="9754" tvg-logo="http://epg.one/img/9754.png" tvg-rec="0",FilmBox ArtHouse UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31807/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8913" tvg-logo="http://epg.one/img/8913.png" tvg-rec="0",FilmUA Live HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31808/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8915" tvg-logo="http://epg.one/img/8915.png" tvg-rec="0",FreeДом UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31810/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2100" tvg-logo="http://epg.one/img/2100.png" tvg-rec="0",К1 UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31812/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8917" tvg-logo="http://epg.one/img/8917.png" tvg-rec="0",Kino Action HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31813/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8918" tvg-logo="http://epg.one/img/8918.png" tvg-rec="0",Kino Comedy HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31814/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8919" tvg-logo="http://epg.one/img/8919.png" tvg-rec="0",Kino Premiere HD UA
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31815/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="8921" tvg-logo="http://epg.one/img/8921.png" tvg-rec="0",Kinowood HD
-http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/31817/index.m3u8
 #EXTINF:0 group-title="Финляндия | Finland" tvg-id="9504" tvg-logo="http://epg.one/img/9504.png" tvg-rec="3",MTV Viihde HD FI
 http://wn0ebc97.russtv.net/iptv/MGPYT3AHMUZB9K/2541/index.m3u8
 #EXTINF:0 group-title="Франция | France" tvg-id="2884" tvg-logo="http://epg.one/img/2884.png" tvg-rec="3",beIN Sports 1 HD FR
